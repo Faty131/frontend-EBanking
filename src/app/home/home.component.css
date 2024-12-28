@@ -1,0 +1,15 @@
+.hero-section {
+  height: 70vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+.hero-section h1 {
+  font-size: 3rem;
+}
+.hero-section p {
+  font-size: 1.25rem;
+}
